@@ -1,0 +1,14 @@
+{
+  "name": "rallytimer",
+  "version": "1.0.0",
+  "description": "a rally timer for GOTC",
+  "main": "index.js",
+  "author": "Kyle Ellis",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.44.0"
+  }
+}
